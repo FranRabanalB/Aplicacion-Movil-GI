@@ -1,12 +1,12 @@
 # Aplicacion-Movil-GI
 Aplicación móvil de gestor de inventario para artistas emprendedores
 
-##Objetivo de primera entrega
+## Objetivo de primera entrega
 
 Aplicacion de guardado local con las siguientes Tecnologias:
 
-*Kotlin Multiplataforma (KMP).
+* Kotlin Multiplataforma (KMP).
 
-*SQLDelight (SQLite) para almacenamiento local.
+* SQLDelight (SQLite) para almacenamiento local.
 
-*Jetpack Compose (Android) + SwiftUI (iOS).
+* Jetpack Compose (Android) + SwiftUI (iOS).
